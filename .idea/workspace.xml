@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78632862-0a8d-4fcc-b97a-da7324ae7e23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_msg/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_msg/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +141,13 @@
       <option name="presentableId" value="LOCAL‎00002" />
       <updated>1654447034847</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL‎00003" summary="django_heroku">
+      <created>1654448425289</created>
+      <option name="number" value="LOCAL‎00003" />
+      <option name="presentableId" value="LOCAL‎00003" />
+      <updated>1654448425289</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -153,17 +156,18 @@
     </ignored-roots>
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="initials" />
-    <option name="LAST_COMMIT_MESSAGE" value="initials" />
+    <MESSAGE value="django_heroku" />
+    <option name="LAST_COMMIT_MESSAGE" value="django_heroku" />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="138" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1654448136854">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="418" y="138" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.672@0.0.1280.672" timestamp="1654448136854" />
-    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1654447034373">
+    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1654448424706">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="270" y="0" key="CommitChangelistDialog2/0.0.1280.672@0.0.1280.672" timestamp="1654447034373" />
+    <state x="270" y="0" key="CommitChangelistDialog2/0.0.1280.672@0.0.1280.672" timestamp="1654448424706" />
     <state x="481" y="234" key="Github.ShareDialog" timestamp="1654446955229">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
@@ -188,10 +192,10 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.672@0.0.1280.672" timestamp="1654382952124" />
-    <state x="233" y="69" key="Vcs.Push.Dialog.v2" timestamp="1654447048205">
+    <state x="233" y="69" key="Vcs.Push.Dialog.v2" timestamp="1654448458311">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="233" y="69" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1654447048205" />
+    <state x="233" y="69" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1654448458311" />
     <state x="305" y="125" key="git4idea.merge.GitPullDialog" timestamp="1654447126429">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
