@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="78632862-0a8d-4fcc-b97a-da7324ae7e23" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +166,13 @@
       <option name="presentableId" value="LOCAL‎00006" />
       <updated>1654449135981</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL‎00007" summary="requirements 5">
+      <created>1654449876838</created>
+      <option name="number" value="LOCAL‎00007" />
+      <option name="presentableId" value="LOCAL‎00007" />
+      <updated>1654449876838</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -177,17 +183,18 @@
     <MESSAGE value="initials" />
     <MESSAGE value="django_heroku" />
     <MESSAGE value="requirements" />
-    <option name="LAST_COMMIT_MESSAGE" value="requirements" />
+    <MESSAGE value="requirements 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="requirements 5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="138" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1654448136854">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="418" y="138" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.672@0.0.1280.672" timestamp="1654448136854" />
-    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1654449135505">
+    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1654449876360">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="270" y="0" key="CommitChangelistDialog2/0.0.1280.672@0.0.1280.672" timestamp="1654449135505" />
+    <state x="270" y="0" key="CommitChangelistDialog2/0.0.1280.672@0.0.1280.672" timestamp="1654449876360" />
     <state x="481" y="234" key="Github.ShareDialog" timestamp="1654446955229">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
@@ -208,14 +215,18 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state width="1259" height="161" key="GridCell.Tab.0.right/0.0.1280.672@0.0.1280.672" timestamp="1654383317253" />
+    <state x="280" y="98" key="MultipleFileMergeDialog" timestamp="1654449906639">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="280" y="98" key="MultipleFileMergeDialog/0.0.1280.672@0.0.1280.672" timestamp="1654449906639" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1654382952124">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.672@0.0.1280.672" timestamp="1654382952124" />
-    <state x="233" y="69" key="Vcs.Push.Dialog.v2" timestamp="1654449140319">
+    <state x="233" y="69" key="Vcs.Push.Dialog.v2" timestamp="1654449927983">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="233" y="69" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1654449140319" />
+    <state x="233" y="69" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1654449927983" />
     <state x="305" y="125" key="git4idea.merge.GitPullDialog" timestamp="1654447126429">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
