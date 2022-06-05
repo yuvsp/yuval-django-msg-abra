@@ -1,4 +1,5 @@
 # yuval-django-msg-abra
+Simple rest API backend system that is responsible for handling messages between users.
 
 Please note the commands (Attention, **authentication Bearer token is needed** per users and commands):
 
