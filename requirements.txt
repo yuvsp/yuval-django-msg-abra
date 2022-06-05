@@ -12,3 +12,5 @@ django-six==1.0.4
 dj-database-url==0.5.0
 pytz==2021.1
 sqlparse==0.4.1
+whitenoise
+django_heroku
