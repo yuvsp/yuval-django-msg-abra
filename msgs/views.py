@@ -7,8 +7,6 @@ from .serializers import MsgSerializer
 from .pagination import CustomPagination
 
 
-# from .filters import MovieFilter
-
 
 class ListCreateMsgAPIView(ListCreateAPIView):
     serializer_class = MsgSerializer
@@ -20,7 +18,7 @@ class ListCreateMsgAPIView(ListCreateAPIView):
     filter_backends = (filters.DjangoFilterBackend,)
 
 
-    # filterset_class = MovieFilter
+    # filterset_class = MsgFilter
 
     def perform_create(self, serializer):
         # Assign the user who created the msg
