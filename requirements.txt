@@ -1,4 +1,5 @@
 asgiref
+gunicorn
 Django==4.0.4
 django-admin==2.0.1
 django-excel-base==1.0.4
