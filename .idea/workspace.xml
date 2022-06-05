@@ -147,7 +147,13 @@
       <option name="presentableId" value="LOCAL‎00003" />
       <updated>1654448425289</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL‎00004" summary="requirements">
+      <created>1654448670768</created>
+      <option name="number" value="LOCAL‎00004" />
+      <option name="presentableId" value="LOCAL‎00004" />
+      <updated>1654448670768</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -157,17 +163,18 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="initials" />
     <MESSAGE value="django_heroku" />
-    <option name="LAST_COMMIT_MESSAGE" value="django_heroku" />
+    <MESSAGE value="requirements" />
+    <option name="LAST_COMMIT_MESSAGE" value="requirements" />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="138" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1654448136854">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="418" y="138" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.672@0.0.1280.672" timestamp="1654448136854" />
-    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1654448424706">
+    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1654448670307">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="270" y="0" key="CommitChangelistDialog2/0.0.1280.672@0.0.1280.672" timestamp="1654448424706" />
+    <state x="270" y="0" key="CommitChangelistDialog2/0.0.1280.672@0.0.1280.672" timestamp="1654448670307" />
     <state x="481" y="234" key="Github.ShareDialog" timestamp="1654446955229">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
@@ -192,10 +199,10 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.672@0.0.1280.672" timestamp="1654382952124" />
-    <state x="233" y="69" key="Vcs.Push.Dialog.v2" timestamp="1654448458311">
+    <state x="233" y="69" key="Vcs.Push.Dialog.v2" timestamp="1654448678014">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="233" y="69" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1654448458311" />
+    <state x="233" y="69" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1654448678014" />
     <state x="305" y="125" key="git4idea.merge.GitPullDialog" timestamp="1654447126429">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
